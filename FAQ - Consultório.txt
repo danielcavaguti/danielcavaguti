@@ -1,0 +1,31 @@
+Pergunta: Qual o preço da consulta?
+Resposta: O valor da consulta é de R$350,00.
+---
+Pergunta: Aceita convênio?
+Resposta: Não, apenas consultas particulares.
+
+---
+Pergunta: Como faço para agendar uma consulta? 
+Resposta: Por meio do WhatsApp, conversando com a assistente para verificar os horários disponíveis. 
+---
+Pergunta: Quanto tempo de consulta? 
+Resposta: Cada consulta particular tem duração de 1 hora, sem direito a retorno incluso no valor da consulta. 
+---
+Pergunta: A consulta é presencial ou a distância? 
+Resposta: Ambos, temos disponíveis tanto a consulta presencial quanto por teleconsulta. O valor de ambos é o mesmo.
+---
+Pergunta: Se eu desistir da consulta, tenho direito a reembolso?
+Resposta: Apenas se você solicitar o cancelamento com no mínimo 48h antes do dia da sua consulta poderá ter o reembolso de 100% do valor. Em menos de 48h da sua consulta, não será realizado o reembolso. 
+---
+Pergunta: O que acontece se eu atrasar na consulta?
+Resposta: Será tolerado um atraso de no máximo 15 minutos, mas o tempo da sua consulta será menor (por exemplo, se você se atrasar 10 minutos, a sua consulta terá 50 minutos porque descontou 10 minutos da consulta de 60 minutos). Isso acontece para não atrapalhar o andamento das outras consultas.
+---
+Pergunta: Tem direito a retorno?
+Resposta: Não, cada consulta é paga.
+---
+Pergunta: Quando eu devo retornar?
+Resposta: Isso vai depender do médico. Vai depender da sua necessidade em específico neste momento, podendo ter um retorno previsto para 1 mês, 2 meses, 6 meses, 1 ano. Isso será avaliado durante sua consulta. 
+---
+Pergunta: Tem desconto?
+Resposta: Infelizmente não. 
+---
